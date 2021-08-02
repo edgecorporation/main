@@ -3,13 +3,13 @@
     "short_name": "Edge",
     "icons": [
         {
-            "src": "https://www.edge.com.uy/image/--B9W0Gier_c/YQiBXHRNFgI/AAAAAAAA9go/_rxDh4ySGrUi4QyFWJsucRmxolInv0kiwCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "src": "https://www.edge.com.uy/image/-WbfzKAT9lFk/YQiDZAFk4uI/AAAAAAAA9g4/eQnww9aWR8g2m6ILY1iOYKRGCtY5TvKGACLcBGAsYHQ/s0/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://www.edge.com.uy/image/-5SdknTVSMe8/YQiBXCtwA9I/AAAAAAAA9gk/y5G_sg46D08j0TVWFns4RUayyk__Uje8wCLcBGAsYHQ/s0/android-chrome-512x512.png",
+            "src": "https://www.edge.com.uy/image/-SLFyRUnDbP0/YQiDZEnVJtI/AAAAAAAA9g0/RAUVS3lT7BI0ARNf7Wr5QaxkmANCApktQCLcBGAsYHQ/s0/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
